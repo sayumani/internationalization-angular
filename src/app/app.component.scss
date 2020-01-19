@@ -1,0 +1,15 @@
+section{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to right , #4a00e0 , #8e2de2);
+    align-items: center;
+}
+
+article{
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+    padding: 40px;
+    box-shadow: 1px 1px 100px 10px rgb(0,0,0,0.8);
+}
