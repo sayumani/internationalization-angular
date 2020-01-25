@@ -66,6 +66,14 @@
               "i18nFormat": "xlf",
               "i18nLocale": "de",
               "i18nMissingTranslation": "error"
+            },
+            "ar-IQ": {
+              "aot": true,
+              "outputPath": "dist/my-project-ar/",
+              "i18nFile": "src/locale/messages.ar.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "ar-IQ",
+              "i18nMissingTranslation": "error"
             }
           }
         },
@@ -83,6 +91,9 @@
             },
             "de": {
               "browserTarget": "localization-ng:build:de"
+            },
+            "ar-IQ": {
+              "browserTarget": "localization-ng:build:ar-IQ"
             }
           }
         },
