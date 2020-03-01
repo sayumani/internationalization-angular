@@ -22,7 +22,5 @@ export class AppComponent implements OnInit {
     if (this.locale.startsWith('ar')) {
       this.dir = 'rtl';
     }
-    console.log('test')
-
   }
 }
