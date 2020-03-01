@@ -23,5 +23,6 @@ export class AppComponent implements OnInit {
       this.dir = 'rtl';
     }
     console.log('test')
+
   }
 }
