@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sayumani/internationalization-angular.svg?branch=master)](https://travis-ci.org/sayumani/internationalization-angular)
+[![Build Status](https://travis-ci.com/sayumani/internationalization-angular.svg?branch=master)](https://travis-ci.com/sayumani/internationalization-angular)
 
 # LocalizationNg
 
